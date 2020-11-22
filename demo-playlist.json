@@ -1,0 +1,2430 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/58qtCYgtEICYiCiSU3Ki9Z/tracks?offset=0&limit=100&market=US",
+  "items": [
+    {
+      "added_at": "2020-10-16T16:02:12Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+              },
+              "href": "https://api.spotify.com/v1/artists/5vfEaoOBcK0Lzr07WN8KaK",
+              "id": "5vfEaoOBcK0Lzr07WN8KaK",
+              "name": "Darius",
+              "type": "artist",
+              "uri": "spotify:artist:5vfEaoOBcK0Lzr07WN8KaK"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+              },
+              "href": "https://api.spotify.com/v1/artists/4f44GWlEQdXaWl8gQ9sPBC",
+              "id": "4f44GWlEQdXaWl8gQ9sPBC",
+              "name": "Wayne Snow",
+              "type": "artist",
+              "uri": "spotify:artist:4f44GWlEQdXaWl8gQ9sPBC"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5e3V72rf9cvVg8hMS5UvHH"
+          },
+          "href": "https://api.spotify.com/v1/albums/5e3V72rf9cvVg8hMS5UvHH",
+          "id": "5e3V72rf9cvVg8hMS5UvHH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d6e2bb4395e2624b4232e2fc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d6e2bb4395e2624b4232e2fc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d6e2bb4395e2624b4232e2fc",
+              "width": 64
+            }
+          ],
+          "name": "EQUILIBRIUM",
+          "release_date": "2020-10-01",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:5e3V72rf9cvVg8hMS5UvHH"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vfEaoOBcK0Lzr07WN8KaK",
+            "id": "5vfEaoOBcK0Lzr07WN8KaK",
+            "name": "Darius",
+            "type": "artist",
+            "uri": "spotify:artist:5vfEaoOBcK0Lzr07WN8KaK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+            },
+            "href": "https://api.spotify.com/v1/artists/4f44GWlEQdXaWl8gQ9sPBC",
+            "id": "4f44GWlEQdXaWl8gQ9sPBC",
+            "name": "Wayne Snow",
+            "type": "artist",
+            "uri": "spotify:artist:4f44GWlEQdXaWl8gQ9sPBC"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 379213,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "FRX202049292"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mZafSubGAMuhfZotQlSkw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mZafSubGAMuhfZotQlSkw",
+        "id": "0mZafSubGAMuhfZotQlSkw",
+        "is_local": false,
+        "is_playable": true,
+        "name": "APOLOGY",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/f61eb53c8110876e53652b40a12ff48585765336?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0mZafSubGAMuhfZotQlSkw"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:03:48Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+              },
+              "href": "https://api.spotify.com/v1/artists/74EhQOxqIuZSj1wsMLQabN",
+              "id": "74EhQOxqIuZSj1wsMLQabN",
+              "name": "Lou Phelps",
+              "type": "artist",
+              "uri": "spotify:artist:74EhQOxqIuZSj1wsMLQabN"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+              },
+              "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+              "id": "6qgnBH6iDM91ipVXv28OMu",
+              "name": "KAYTRANADA",
+              "type": "artist",
+              "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3PzaJuW0wk7rc9EUPQFop2"
+          },
+          "href": "https://api.spotify.com/v1/albums/3PzaJuW0wk7rc9EUPQFop2",
+          "id": "3PzaJuW0wk7rc9EUPQFop2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730d604c25af01e468bb888b1c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020d604c25af01e468bb888b1c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510d604c25af01e468bb888b1c",
+              "width": 64
+            }
+          ],
+          "name": "NIKE SHOE BOX",
+          "release_date": "2020-10-16",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3PzaJuW0wk7rc9EUPQFop2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+            },
+            "href": "https://api.spotify.com/v1/artists/74EhQOxqIuZSj1wsMLQabN",
+            "id": "74EhQOxqIuZSj1wsMLQabN",
+            "name": "Lou Phelps",
+            "type": "artist",
+            "uri": "spotify:artist:74EhQOxqIuZSj1wsMLQabN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+            "id": "6qgnBH6iDM91ipVXv28OMu",
+            "name": "KAYTRANADA",
+            "type": "artist",
+            "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 132035,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QZNMT2020615"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Nc1cCLmLv41y9ItbgCKf3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Nc1cCLmLv41y9ItbgCKf3",
+        "id": "1Nc1cCLmLv41y9ItbgCKf3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "NIKE SHOE BOX",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/9673385f068cae61f699ea51861ced14b972da9b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Nc1cCLmLv41y9ItbgCKf3"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:04:34Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM"
+              },
+              "href": "https://api.spotify.com/v1/artists/5ar4zFgUQG1RsH8nhmjOeM",
+              "id": "5ar4zFgUQG1RsH8nhmjOeM",
+              "name": "Robotaki",
+              "type": "artist",
+              "uri": "spotify:artist:5ar4zFgUQG1RsH8nhmjOeM"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3T3iEUrvPpvwOQ3VePidnS"
+          },
+          "href": "https://api.spotify.com/v1/albums/3T3iEUrvPpvwOQ3VePidnS",
+          "id": "3T3iEUrvPpvwOQ3VePidnS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738154f51191df86ffb3f50ecd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028154f51191df86ffb3f50ecd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518154f51191df86ffb3f50ecd",
+              "width": 64
+            }
+          ],
+          "name": "The Grand Mirage",
+          "release_date": "2020-03-27",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:3T3iEUrvPpvwOQ3VePidnS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ar4zFgUQG1RsH8nhmjOeM",
+            "id": "5ar4zFgUQG1RsH8nhmjOeM",
+            "name": "Robotaki",
+            "type": "artist",
+            "uri": "spotify:artist:5ar4zFgUQG1RsH8nhmjOeM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SjlJe4MbPmGLwdEBuMrBV",
+            "id": "2SjlJe4MbPmGLwdEBuMrBV",
+            "name": "Maiah Manser",
+            "type": "artist",
+            "uri": "spotify:artist:2SjlJe4MbPmGLwdEBuMrBV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211200,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USA2P1822457"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ow8KgJ6d9kfIQqJdIjWNu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ow8KgJ6d9kfIQqJdIjWNu",
+        "id": "5Ow8KgJ6d9kfIQqJdIjWNu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Los Angeles",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/df3804b3468a40ff3050ee23e306563babc9666b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Ow8KgJ6d9kfIQqJdIjWNu"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:08:02Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+              },
+              "href": "https://api.spotify.com/v1/artists/3Nb8N20WChM0swo5qWTvm8",
+              "id": "3Nb8N20WChM0swo5qWTvm8",
+              "name": "Tennyson",
+              "type": "artist",
+              "uri": "spotify:artist:3Nb8N20WChM0swo5qWTvm8"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1dOQNJCOzmleHv8HxTFUQB"
+          },
+          "href": "https://api.spotify.com/v1/albums/1dOQNJCOzmleHv8HxTFUQB",
+          "id": "1dOQNJCOzmleHv8HxTFUQB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738143708e934d51afb68358f0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028143708e934d51afb68358f0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518143708e934d51afb68358f0",
+              "width": 64
+            }
+          ],
+          "name": "Telescope EP",
+          "release_date": "2019-11-22",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:1dOQNJCOzmleHv8HxTFUQB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Nb8N20WChM0swo5qWTvm8",
+            "id": "3Nb8N20WChM0swo5qWTvm8",
+            "name": "Tennyson",
+            "type": "artist",
+            "uri": "spotify:artist:3Nb8N20WChM0swo5qWTvm8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 221502,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBCFB1900236"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5532lQKkhAZUyUKOBA9yrB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5532lQKkhAZUyUKOBA9yrB",
+        "id": "5532lQKkhAZUyUKOBA9yrB",
+        "is_local": false,
+        "is_playable": true,
+        "name": "You",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/c6ac625b222f75ebcd9067df6d9b9a0183db5a07?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5532lQKkhAZUyUKOBA9yrB"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:08:53Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+              },
+              "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+              "id": "0GG2cWaonE4JPrjcCCQ1EG",
+              "name": "SG Lewis",
+              "type": "artist",
+              "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
+          },
+          "href": "https://api.spotify.com/v1/albums/2gwNU1WsZEOcCSyKHsXKs5",
+          "id": "2gwNU1WsZEOcCSyKHsXKs5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737a57c79de5138d173331183d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027a57c79de5138d173331183d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517a57c79de5138d173331183d",
+              "width": 64
+            }
+          ],
+          "name": "Dusk",
+          "release_date": "2018-04-06",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:2gwNU1WsZEOcCSyKHsXKs5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+            "id": "0GG2cWaonE4JPrjcCCQ1EG",
+            "name": "SG Lewis",
+            "type": "artist",
+            "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216497,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71800477"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oKeVXkFW8W91cyoWVgRHE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6oKeVXkFW8W91cyoWVgRHE",
+        "id": "6oKeVXkFW8W91cyoWVgRHE",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sunsets - Pt. 2",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/122ef2e3c395327ab33a3cb472964a21bad4bfd0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6oKeVXkFW8W91cyoWVgRHE"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:09:24Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+              },
+              "href": "https://api.spotify.com/v1/artists/14uVJsPC4DByeuD0cq36ez",
+              "id": "14uVJsPC4DByeuD0cq36ez",
+              "name": "Moods",
+              "type": "artist",
+              "uri": "spotify:artist:14uVJsPC4DByeuD0cq36ez"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/55CTMjG2c1hYHg3TDSuxGC"
+          },
+          "href": "https://api.spotify.com/v1/albums/55CTMjG2c1hYHg3TDSuxGC",
+          "id": "55CTMjG2c1hYHg3TDSuxGC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739dfc3d6f8bc2a2e3c32013f6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029dfc3d6f8bc2a2e3c32013f6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519dfc3d6f8bc2a2e3c32013f6",
+              "width": 64
+            }
+          ],
+          "name": "Another Point of View",
+          "release_date": "2013-06-24",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:55CTMjG2c1hYHg3TDSuxGC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+            },
+            "href": "https://api.spotify.com/v1/artists/14uVJsPC4DByeuD0cq36ez",
+            "id": "14uVJsPC4DByeuD0cq36ez",
+            "name": "Moods",
+            "type": "artist",
+            "uri": "spotify:artist:14uVJsPC4DByeuD0cq36ez"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 185004,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "NLLC61300022"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TMIyn5oOz56mwurbtzJla"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TMIyn5oOz56mwurbtzJla",
+        "id": "0TMIyn5oOz56mwurbtzJla",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Observe",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/419d03b6a7d1017475dc6511759c51ff701db206?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0TMIyn5oOz56mwurbtzJla"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-16T16:10:50Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+              },
+              "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+              "id": "6nS5roXSAGhTGr34W6n7Et",
+              "name": "Disclosure",
+              "type": "artist",
+              "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6iCzMv8aVacURKrxV7b0RS"
+          },
+          "href": "https://api.spotify.com/v1/albums/6iCzMv8aVacURKrxV7b0RS",
+          "id": "6iCzMv8aVacURKrxV7b0RS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27314f7b89e55325fef3fafd782",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0214f7b89e55325fef3fafd782",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485114f7b89e55325fef3fafd782",
+              "width": 64
+            }
+          ],
+          "name": "ENERGY (Deluxe)",
+          "release_date": "2020-09-25",
+          "release_date_precision": "day",
+          "total_tracks": 23,
+          "type": "album",
+          "uri": "spotify:album:6iCzMv8aVacURKrxV7b0RS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+            "id": "6nS5roXSAGhTGr34W6n7Et",
+            "name": "Disclosure",
+            "type": "artist",
+            "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+            },
+            "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+            "id": "0cGUm45nv7Z6M6qdXYQGTX",
+            "name": "Kehlani",
+            "type": "artist",
+            "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jk39CGeaaSO3FPKNx1RUx",
+            "id": "3jk39CGeaaSO3FPKNx1RUx",
+            "name": "Syd",
+            "type": "artist",
+            "uri": "spotify:artist:3jk39CGeaaSO3FPKNx1RUx"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 219520,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71900066"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36bAKGoA4MFKfHJrm2eUuQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36bAKGoA4MFKfHJrm2eUuQ",
+        "id": "36bAKGoA4MFKfHJrm2eUuQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Birthday",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/68d0a34938450d8ebe9e95218172c48690716c86?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:36bAKGoA4MFKfHJrm2eUuQ"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-22T20:51:02Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4tlQUzfPMHMFglD9Uvp9Yr"
+              },
+              "href": "https://api.spotify.com/v1/artists/4tlQUzfPMHMFglD9Uvp9Yr",
+              "id": "4tlQUzfPMHMFglD9Uvp9Yr",
+              "name": "Dugway",
+              "type": "artist",
+              "uri": "spotify:artist:4tlQUzfPMHMFglD9Uvp9Yr"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7aFiUZlEwdD22hAZJkSu1B"
+          },
+          "href": "https://api.spotify.com/v1/albums/7aFiUZlEwdD22hAZJkSu1B",
+          "id": "7aFiUZlEwdD22hAZJkSu1B",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff2b6b442bc73955ae55837f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff2b6b442bc73955ae55837f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ff2b6b442bc73955ae55837f",
+              "width": 64
+            }
+          ],
+          "name": "TwoScoops",
+          "release_date": "2020-03-20",
+          "release_date_precision": "day",
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:7aFiUZlEwdD22hAZJkSu1B"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tlQUzfPMHMFglD9Uvp9Yr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tlQUzfPMHMFglD9Uvp9Yr",
+            "id": "4tlQUzfPMHMFglD9Uvp9Yr",
+            "name": "Dugway",
+            "type": "artist",
+            "uri": "spotify:artist:4tlQUzfPMHMFglD9Uvp9Yr"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 211377,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SE5Q51903323"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Rs5m0YQC6ldMfq4WyAuMN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Rs5m0YQC6ldMfq4WyAuMN",
+        "id": "5Rs5m0YQC6ldMfq4WyAuMN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Whiskers",
+        "popularity": 5,
+        "preview_url": "https://p.scdn.co/mp3-preview/c5f79114103e51b45fc2fbdc9c74e4d22bf11b33?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5Rs5m0YQC6ldMfq4WyAuMN"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-22T20:54:12Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6JBCyQozoQ0ylcCauIexZD"
+              },
+              "href": "https://api.spotify.com/v1/artists/6JBCyQozoQ0ylcCauIexZD",
+              "id": "6JBCyQozoQ0ylcCauIexZD",
+              "name": "Whitey",
+              "type": "artist",
+              "uri": "spotify:artist:6JBCyQozoQ0ylcCauIexZD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1TnqAktJ1BJNEHiQuxmV5l"
+          },
+          "href": "https://api.spotify.com/v1/albums/1TnqAktJ1BJNEHiQuxmV5l",
+          "id": "1TnqAktJ1BJNEHiQuxmV5l",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273504c3e5e67412b6537dec3a3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02504c3e5e67412b6537dec3a3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851504c3e5e67412b6537dec3a3",
+              "width": 64
+            }
+          ],
+          "name": "GREAT SHAKES, Vol. 2 (REMASTERED EDITION)",
+          "release_date": "2020-06-12",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1TnqAktJ1BJNEHiQuxmV5l"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6JBCyQozoQ0ylcCauIexZD"
+            },
+            "href": "https://api.spotify.com/v1/artists/6JBCyQozoQ0ylcCauIexZD",
+            "id": "6JBCyQozoQ0ylcCauIexZD",
+            "name": "Whitey",
+            "type": "artist",
+            "uri": "spotify:artist:6JBCyQozoQ0ylcCauIexZD"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 259090,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USA2P2019623"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TCljzaNn5Vt7cxFJ3zNB8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TCljzaNn5Vt7cxFJ3zNB8",
+        "id": "6TCljzaNn5Vt7cxFJ3zNB8",
+        "is_local": false,
+        "is_playable": true,
+        "name": "WHAT’S WRONG WITH PEOPLE?, Pt. 2",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/58d127547637c7696e06444dfc75a362cc771dbe?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6TCljzaNn5Vt7cxFJ3zNB8"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-22T20:58:05Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/3xYvvJ6tjXyJJdEXBs8qf0",
+              "id": "3xYvvJ6tjXyJJdEXBs8qf0",
+              "name": "Brothel",
+              "type": "artist",
+              "uri": "spotify:artist:3xYvvJ6tjXyJJdEXBs8qf0"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+              },
+              "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
+              "id": "48nHO1cuTbpx4ELhChsxX1",
+              "name": "Sidewalks and Skeletons",
+              "type": "artist",
+              "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r97pceD0QCZoH7jEk3MMg"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r97pceD0QCZoH7jEk3MMg",
+              "id": "1r97pceD0QCZoH7jEk3MMg",
+              "name": "Clepsydra",
+              "type": "artist",
+              "uri": "spotify:artist:1r97pceD0QCZoH7jEk3MMg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2gJK6uYEiQO9JO6RJCNMbm"
+          },
+          "href": "https://api.spotify.com/v1/albums/2gJK6uYEiQO9JO6RJCNMbm",
+          "id": "2gJK6uYEiQO9JO6RJCNMbm",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736a257aa5ec8cd807a2665b27",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026a257aa5ec8cd807a2665b27",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516a257aa5ec8cd807a2665b27",
+              "width": 64
+            }
+          ],
+          "name": "Birth/Rebirth",
+          "release_date": "2020-10-05",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:2gJK6uYEiQO9JO6RJCNMbm"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
+            },
+            "href": "https://api.spotify.com/v1/artists/3xYvvJ6tjXyJJdEXBs8qf0",
+            "id": "3xYvvJ6tjXyJJdEXBs8qf0",
+            "name": "Brothel",
+            "type": "artist",
+            "uri": "spotify:artist:3xYvvJ6tjXyJJdEXBs8qf0"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+            },
+            "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
+            "id": "48nHO1cuTbpx4ELhChsxX1",
+            "name": "Sidewalks and Skeletons",
+            "type": "artist",
+            "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r97pceD0QCZoH7jEk3MMg"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r97pceD0QCZoH7jEk3MMg",
+            "id": "1r97pceD0QCZoH7jEk3MMg",
+            "name": "Clepsydra",
+            "type": "artist",
+            "uri": "spotify:artist:1r97pceD0QCZoH7jEk3MMg"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 336028,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZK6J2071698"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zCXZRiC0nUm9os20ldwTq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zCXZRiC0nUm9os20ldwTq",
+        "id": "7zCXZRiC0nUm9os20ldwTq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Rebirth",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/cbf681473a7055856d08196d195f7351dc2cc665?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7zCXZRiC0nUm9os20ldwTq"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-22T21:00:04Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+              },
+              "href": "https://api.spotify.com/v1/artists/007nYTXRhZJUZGH7ct5Y3v",
+              "id": "007nYTXRhZJUZGH7ct5Y3v",
+              "name": "Tails",
+              "type": "artist",
+              "uri": "spotify:artist:007nYTXRhZJUZGH7ct5Y3v"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+              },
+              "href": "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+              "id": "66VgJGpaRMwrNaS2MPqIDf",
+              "name": "Pauline Herr",
+              "type": "artist",
+              "uri": "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4nZZcyfGo20PgVOe4WZpob"
+          },
+          "href": "https://api.spotify.com/v1/albums/4nZZcyfGo20PgVOe4WZpob",
+          "id": "4nZZcyfGo20PgVOe4WZpob",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27398c2fa9472f5e23c021b66a2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0298c2fa9472f5e23c021b66a2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485198c2fa9472f5e23c021b66a2",
+              "width": 64
+            }
+          ],
+          "name": "Ghosted",
+          "release_date": "2018-05-04",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4nZZcyfGo20PgVOe4WZpob"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+            },
+            "href": "https://api.spotify.com/v1/artists/007nYTXRhZJUZGH7ct5Y3v",
+            "id": "007nYTXRhZJUZGH7ct5Y3v",
+            "name": "Tails",
+            "type": "artist",
+            "uri": "spotify:artist:007nYTXRhZJUZGH7ct5Y3v"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+            },
+            "href": "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+            "id": "66VgJGpaRMwrNaS2MPqIDf",
+            "name": "Pauline Herr",
+            "type": "artist",
+            "uri": "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 203455,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "CA6D21800102"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46gOdjm8GkPdk8KWsau5Ub"
+        },
+        "href": "https://api.spotify.com/v1/tracks/46gOdjm8GkPdk8KWsau5Ub",
+        "id": "46gOdjm8GkPdk8KWsau5Ub",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ghosted",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/e9eb193870c93f0d4d155baee1842cd5023bbf8a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:46gOdjm8GkPdk8KWsau5Ub"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:01:47Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+              },
+              "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+              "id": "3jK9MiCrA42lLAdMGUZpwa",
+              "name": "Anderson .Paak",
+              "type": "artist",
+              "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
+          },
+          "href": "https://api.spotify.com/v1/albums/78dIoWjdZvWcgKNxEgIDL4",
+          "id": "78dIoWjdZvWcgKNxEgIDL4",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d3af16078e9a78edac2ebed8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d3af16078e9a78edac2ebed8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d3af16078e9a78edac2ebed8",
+              "width": 64
+            }
+          ],
+          "name": "JEWELZ",
+          "release_date": "2020-10-06",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:78dIoWjdZvWcgKNxEgIDL4"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+            "id": "3jK9MiCrA42lLAdMGUZpwa",
+            "name": "Anderson .Paak",
+            "type": "artist",
+            "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 174213,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "ZZOPM2003329"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IFFKj9orAsQOOS0JRhHAW",
+        "id": "2IFFKj9orAsQOOS0JRhHAW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "JEWELZ",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/bba91a6b9bd23d9e662ed0361162903975d8c2a5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2IFFKj9orAsQOOS0JRhHAW"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:02:07Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+              },
+              "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+              "id": "3qnGvpP8Yth1AqSBMqON5x",
+              "name": "Leon Bridges",
+              "type": "artist",
+              "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Vuvs6Py2JRU7WiFDVsI7J",
+              "id": "5Vuvs6Py2JRU7WiFDVsI7J",
+              "name": "Lucky Daye",
+              "type": "artist",
+              "uri": "spotify:artist:5Vuvs6Py2JRU7WiFDVsI7J"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge"
+          },
+          "href": "https://api.spotify.com/v1/albums/36Lr1Ipl7w3gn0NdZbRcge",
+          "id": "36Lr1Ipl7w3gn0NdZbRcge",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273359147116b6fb5e1c3f77e26",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02359147116b6fb5e1c3f77e26",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851359147116b6fb5e1c3f77e26",
+              "width": 64
+            }
+          ],
+          "name": "All About You",
+          "release_date": "2020-10-16",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:36Lr1Ipl7w3gn0NdZbRcge"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+            "id": "3qnGvpP8Yth1AqSBMqON5x",
+            "name": "Leon Bridges",
+            "type": "artist",
+            "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Vuvs6Py2JRU7WiFDVsI7J",
+            "id": "5Vuvs6Py2JRU7WiFDVsI7J",
+            "name": "Lucky Daye",
+            "type": "artist",
+            "uri": "spotify:artist:5Vuvs6Py2JRU7WiFDVsI7J"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 180095,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM12002398"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2uddLj27GIDBIdwRuIomE4",
+        "id": "2uddLj27GIDBIdwRuIomE4",
+        "is_local": false,
+        "is_playable": true,
+        "name": "All About You",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/fa2881c4b47ae6bf950258b53a0d33766967cfd5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2uddLj27GIDBIdwRuIomE4"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:04:36Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+              },
+              "href": "https://api.spotify.com/v1/artists/2EwyKG76iX4Pp5HhAD6SKO",
+              "id": "2EwyKG76iX4Pp5HhAD6SKO",
+              "name": "Maeta",
+              "type": "artist",
+              "uri": "spotify:artist:2EwyKG76iX4Pp5HhAD6SKO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/6PDLwWvgYNMfBRLqC1h5cJ",
+              "id": "6PDLwWvgYNMfBRLqC1h5cJ",
+              "name": "Buddy",
+              "type": "artist",
+              "uri": "spotify:artist:6PDLwWvgYNMfBRLqC1h5cJ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+              },
+              "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+              "id": "6qgnBH6iDM91ipVXv28OMu",
+              "name": "KAYTRANADA",
+              "type": "artist",
+              "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF"
+          },
+          "href": "https://api.spotify.com/v1/albums/3bLZlNsCcoc4Ih0FtqPvkF",
+          "id": "3bLZlNsCcoc4Ih0FtqPvkF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736044712ec6f6f3920d0dfda6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026044712ec6f6f3920d0dfda6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516044712ec6f6f3920d0dfda6",
+              "width": 64
+            }
+          ],
+          "name": "Teen Scene feat. Buddy",
+          "release_date": "2020-09-07",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3bLZlNsCcoc4Ih0FtqPvkF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+            },
+            "href": "https://api.spotify.com/v1/artists/2EwyKG76iX4Pp5HhAD6SKO",
+            "id": "2EwyKG76iX4Pp5HhAD6SKO",
+            "name": "Maeta",
+            "type": "artist",
+            "uri": "spotify:artist:2EwyKG76iX4Pp5HhAD6SKO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6PDLwWvgYNMfBRLqC1h5cJ",
+            "id": "6PDLwWvgYNMfBRLqC1h5cJ",
+            "name": "Buddy",
+            "type": "artist",
+            "uri": "spotify:artist:6PDLwWvgYNMfBRLqC1h5cJ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 250362,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMJMT2003065"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7rNjupJkjsc3ANGeW0RCYj",
+        "id": "7rNjupJkjsc3ANGeW0RCYj",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Teen Scene feat. Buddy",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/858275ebcb20e14ffc1e7ed12721a428a4b94f10?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7rNjupJkjsc3ANGeW0RCYj"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:09:56Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+              },
+              "href": "https://api.spotify.com/v1/artists/7aFTOGFDEqDtJUCziLVsVC",
+              "id": "7aFTOGFDEqDtJUCziLVsVC",
+              "name": "Nao",
+              "type": "artist",
+              "uri": "spotify:artist:7aFTOGFDEqDtJUCziLVsVC"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+              },
+              "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+              "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+              "name": "Lianne La Havas",
+              "type": "artist",
+              "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
+          },
+          "href": "https://api.spotify.com/v1/albums/573VHLRrwj40u1oZcutY9r",
+          "id": "573VHLRrwj40u1oZcutY9r",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737082447343167363976ca7e1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027082447343167363976ca7e1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517082447343167363976ca7e1",
+              "width": 64
+            }
+          ],
+          "name": "Woman (feat. Lianne La Havas)",
+          "release_date": "2020-08-24",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:573VHLRrwj40u1oZcutY9r"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aFTOGFDEqDtJUCziLVsVC",
+            "id": "7aFTOGFDEqDtJUCziLVsVC",
+            "name": "Nao",
+            "type": "artist",
+            "uri": "spotify:artist:7aFTOGFDEqDtJUCziLVsVC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 191826,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBARL2000843"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VyoOl99FlcemZr6WvzQed",
+        "id": "4VyoOl99FlcemZr6WvzQed",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Woman (feat. Lianne La Havas)",
+        "popularity": 63,
+        "preview_url": "https://p.scdn.co/mp3-preview/6b861085c9f72c7ed89f966d5c1a19e8324b5e1d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4VyoOl99FlcemZr6WvzQed"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:12:39Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+              },
+              "href": "https://api.spotify.com/v1/artists/1uiEZYehlNivdK3iQyAbye",
+              "id": "1uiEZYehlNivdK3iQyAbye",
+              "name": "Tom Misch",
+              "type": "artist",
+              "uri": "spotify:artist:1uiEZYehlNivdK3iQyAbye"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+              },
+              "href": "https://api.spotify.com/v1/artists/2rspptKP0lPBdlJJAJHqht",
+              "id": "2rspptKP0lPBdlJJAJHqht",
+              "name": "Yussef Dayes",
+              "type": "artist",
+              "uri": "spotify:artist:2rspptKP0lPBdlJJAJHqht"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+          },
+          "href": "https://api.spotify.com/v1/albums/5ciBtE0wpwlIew7zvUKmd2",
+          "id": "5ciBtE0wpwlIew7zvUKmd2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27337f36f200390d00d63bbc4c5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0237f36f200390d00d63bbc4c5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485137f36f200390d00d63bbc4c5",
+              "width": 64
+            }
+          ],
+          "name": "What Kinda Music (Bonus Tracks)",
+          "release_date": "2020-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:5ciBtE0wpwlIew7zvUKmd2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uiEZYehlNivdK3iQyAbye",
+            "id": "1uiEZYehlNivdK3iQyAbye",
+            "name": "Tom Misch",
+            "type": "artist",
+            "uri": "spotify:artist:1uiEZYehlNivdK3iQyAbye"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rspptKP0lPBdlJJAJHqht",
+            "id": "2rspptKP0lPBdlJJAJHqht",
+            "name": "Yussef Dayes",
+            "type": "artist",
+            "uri": "spotify:artist:2rspptKP0lPBdlJJAJHqht"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 189683,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "UKDBV2000040"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jbzmPDdZMp4JFcif3OPnH",
+        "id": "4jbzmPDdZMp4JFcif3OPnH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Can You Feel It",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/785e22c7677e8e93337407f879bd819c2af4c56c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4jbzmPDdZMp4JFcif3OPnH"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-10-30T16:22:20Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+              },
+              "href": "https://api.spotify.com/v1/artists/6tUJpYN2aYiXbzAcg0pIOo",
+              "id": "6tUJpYN2aYiXbzAcg0pIOo",
+              "name": "Sinead Harnett",
+              "type": "artist",
+              "uri": "spotify:artist:6tUJpYN2aYiXbzAcg0pIOo"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+              },
+              "href": "https://api.spotify.com/v1/artists/5MbNzCW3qokGyoo9giHA3V",
+              "id": "5MbNzCW3qokGyoo9giHA3V",
+              "name": "EARTHGANG",
+              "type": "artist",
+              "uri": "spotify:artist:5MbNzCW3qokGyoo9giHA3V"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
+          },
+          "href": "https://api.spotify.com/v1/albums/7uArP6gpDdQXQrkfdFOpvA",
+          "id": "7uArP6gpDdQXQrkfdFOpvA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735923de55e5dc138bcd22e88c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025923de55e5dc138bcd22e88c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515923de55e5dc138bcd22e88c",
+              "width": 64
+            }
+          ],
+          "name": "Take Me Away (feat. EARTHGANG)",
+          "release_date": "2020-10-16",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7uArP6gpDdQXQrkfdFOpvA"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tUJpYN2aYiXbzAcg0pIOo",
+            "id": "6tUJpYN2aYiXbzAcg0pIOo",
+            "name": "Sinead Harnett",
+            "type": "artist",
+            "uri": "spotify:artist:6tUJpYN2aYiXbzAcg0pIOo"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+            },
+            "href": "https://api.spotify.com/v1/artists/5MbNzCW3qokGyoo9giHA3V",
+            "id": "5MbNzCW3qokGyoo9giHA3V",
+            "name": "EARTHGANG",
+            "type": "artist",
+            "uri": "spotify:artist:5MbNzCW3qokGyoo9giHA3V"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 172493,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QMBZ92025401"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jdit0IB5OJbDmPRqadZbs",
+        "id": "0jdit0IB5OJbDmPRqadZbs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/fb8e29d9be83e65ace36f62121b88a819d87a65b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0jdit0IB5OJbDmPRqadZbs"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-11-06T18:38:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+              },
+              "href": "https://api.spotify.com/v1/artists/0fVqst4UD6o7SKW6SsWPfU",
+              "id": "0fVqst4UD6o7SKW6SsWPfU",
+              "name": "NXSTY",
+              "type": "artist",
+              "uri": "spotify:artist:0fVqst4UD6o7SKW6SsWPfU"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+              },
+              "href": "https://api.spotify.com/v1/artists/7nZJ6x2Wj2suztg4H53GSf",
+              "id": "7nZJ6x2Wj2suztg4H53GSf",
+              "name": "Kelland",
+              "type": "artist",
+              "uri": "spotify:artist:7nZJ6x2Wj2suztg4H53GSf"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4Y4VIdSXxQnfQWXA2NDWHI"
+          },
+          "href": "https://api.spotify.com/v1/albums/4Y4VIdSXxQnfQWXA2NDWHI",
+          "id": "4Y4VIdSXxQnfQWXA2NDWHI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e87d16d87b7d96ceca6a7ce1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e87d16d87b7d96ceca6a7ce1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e87d16d87b7d96ceca6a7ce1",
+              "width": 64
+            }
+          ],
+          "name": "SEASONS",
+          "release_date": "2020-09-30",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:4Y4VIdSXxQnfQWXA2NDWHI"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fVqst4UD6o7SKW6SsWPfU",
+            "id": "0fVqst4UD6o7SKW6SsWPfU",
+            "name": "NXSTY",
+            "type": "artist",
+            "uri": "spotify:artist:0fVqst4UD6o7SKW6SsWPfU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+            },
+            "href": "https://api.spotify.com/v1/artists/7nZJ6x2Wj2suztg4H53GSf",
+            "id": "7nZJ6x2Wj2suztg4H53GSf",
+            "name": "Kelland",
+            "type": "artist",
+            "uri": "spotify:artist:7nZJ6x2Wj2suztg4H53GSf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8"
+            },
+            "href": "https://api.spotify.com/v1/artists/63CZNEytugjFnZBdjBmWc8",
+            "id": "63CZNEytugjFnZBdjBmWc8",
+            "name": "COTIS",
+            "type": "artist",
+            "uri": "spotify:artist:63CZNEytugjFnZBdjBmWc8"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 177606,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QM24S2007600"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IKwj1e4LX8tfrNHIFs3XJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IKwj1e4LX8tfrNHIFs3XJ",
+        "id": "0IKwj1e4LX8tfrNHIFs3XJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "EVERY NIGHT",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/18f13e225469a62207b5a0fc677a01192d01e51e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0IKwj1e4LX8tfrNHIFs3XJ"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-11-14T17:34:38Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1FHDMgGdmIP4IsoFkAwbS0",
+              "id": "1FHDMgGdmIP4IsoFkAwbS0",
+              "name": "River Tiber",
+              "type": "artist",
+              "uri": "spotify:artist:1FHDMgGdmIP4IsoFkAwbS0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5irwMayGMsLCrokUzoKGF7"
+          },
+          "href": "https://api.spotify.com/v1/albums/5irwMayGMsLCrokUzoKGF7",
+          "id": "5irwMayGMsLCrokUzoKGF7",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273186fe072796661ae75c5a52e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02186fe072796661ae75c5a52e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851186fe072796661ae75c5a52e",
+              "width": 64
+            }
+          ],
+          "name": "Indigo",
+          "release_date": "2016-06-24",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:5irwMayGMsLCrokUzoKGF7"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FHDMgGdmIP4IsoFkAwbS0",
+            "id": "1FHDMgGdmIP4IsoFkAwbS0",
+            "name": "River Tiber",
+            "type": "artist",
+            "uri": "spotify:artist:1FHDMgGdmIP4IsoFkAwbS0"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 313370,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "CAK471601203"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xjX4jbhjrIEQypkeCuqeu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xjX4jbhjrIEQypkeCuqeu",
+        "id": "1xjX4jbhjrIEQypkeCuqeu",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1oSOyE9Ap4PNSpxfirRPDs"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1oSOyE9Ap4PNSpxfirRPDs",
+          "id": "1oSOyE9Ap4PNSpxfirRPDs",
+          "type": "track",
+          "uri": "spotify:track:1oSOyE9Ap4PNSpxfirRPDs"
+        },
+        "name": "Acid Test",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/2549d35ac63332c4dde1a96d2ba25ae75e3954d5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1xjX4jbhjrIEQypkeCuqeu"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-11-14T17:52:14Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VwKSHAfgzV1DOHV0aANCI",
+              "id": "3VwKSHAfgzV1DOHV0aANCI",
+              "name": "TOKiMONSTA",
+              "type": "artist",
+              "uri": "spotify:artist:3VwKSHAfgzV1DOHV0aANCI"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+          },
+          "href": "https://api.spotify.com/v1/albums/2n2lsJowrhccWUuDU66cmm",
+          "id": "2n2lsJowrhccWUuDU66cmm",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273509a3202220ed1073f08634e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02509a3202220ed1073f08634e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851509a3202220ed1073f08634e",
+              "width": 64
+            }
+          ],
+          "name": "Creature Dreams",
+          "release_date": "2011-05-16",
+          "release_date_precision": "day",
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2n2lsJowrhccWUuDU66cmm"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+            },
+            "href": "https://api.spotify.com/v1/artists/3VwKSHAfgzV1DOHV0aANCI",
+            "id": "3VwKSHAfgzV1DOHV0aANCI",
+            "name": "TOKiMONSTA",
+            "type": "artist",
+            "uri": "spotify:artist:3VwKSHAfgzV1DOHV0aANCI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+            },
+            "href": "https://api.spotify.com/v1/artists/17czHqI0Lwj2V3htvm8afG",
+            "id": "17czHqI0Lwj2V3htvm8afG",
+            "name": "Gavin Turek",
+            "type": "artist",
+            "uri": "spotify:artist:17czHqI0Lwj2V3htvm8afG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 309145,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US25X1082901"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/548HwuXDxj3wxRu45e0uf8",
+        "id": "548HwuXDxj3wxRu45e0uf8",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4ySVQmNBOiZHGp5vDoIrut"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4ySVQmNBOiZHGp5vDoIrut",
+          "id": "4ySVQmNBOiZHGp5vDoIrut",
+          "type": "track",
+          "uri": "spotify:track:4ySVQmNBOiZHGp5vDoIrut"
+        },
+        "name": "Darkest (Dim)",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/d297e3d766772cff7ae26f04c223b6c7f68afa47?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:548HwuXDxj3wxRu45e0uf8"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-11-14T17:55:34Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+              },
+              "href": "https://api.spotify.com/v1/artists/62vbsDRAq0qHdezaCOzB0T",
+              "id": "62vbsDRAq0qHdezaCOzB0T",
+              "name": "Medasin",
+              "type": "artist",
+              "uri": "spotify:artist:62vbsDRAq0qHdezaCOzB0T"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/0WRsSZMzGnH9f4HOfzTybZ",
+          "id": "0WRsSZMzGnH9f4HOfzTybZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738d93f3e48317cc26d64b6c0a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028d93f3e48317cc26d64b6c0a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518d93f3e48317cc26d64b6c0a",
+              "width": 64
+            }
+          ],
+          "name": "Daydream feat. Joba",
+          "release_date": "2016-07-14",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0WRsSZMzGnH9f4HOfzTybZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+            },
+            "href": "https://api.spotify.com/v1/artists/62vbsDRAq0qHdezaCOzB0T",
+            "id": "62vbsDRAq0qHdezaCOzB0T",
+            "name": "Medasin",
+            "type": "artist",
+            "uri": "spotify:artist:62vbsDRAq0qHdezaCOzB0T"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q"
+            },
+            "href": "https://api.spotify.com/v1/artists/2t64CHsmWouJNyXSwy5q2q",
+            "id": "2t64CHsmWouJNyXSwy5q2q",
+            "name": "Joba",
+            "type": "artist",
+            "uri": "spotify:artist:2t64CHsmWouJNyXSwy5q2q"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 200838,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCACQ1630041"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6DEDhjTllUrPw29BivTvn2",
+        "id": "6DEDhjTllUrPw29BivTvn2",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Daydream",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/d7dc2812714ed1c74d8d76d856669f3f7d36f560?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6DEDhjTllUrPw29BivTvn2"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-11-17T21:30:44Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xicarus."
+        },
+        "href": "https://api.spotify.com/v1/users/xicarus.",
+        "id": "xicarus.",
+        "type": "user",
+        "uri": "spotify:user:xicarus."
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1haeUsMHUPOfgob9WHBqqU"
+              },
+              "href": "https://api.spotify.com/v1/artists/1haeUsMHUPOfgob9WHBqqU",
+              "id": "1haeUsMHUPOfgob9WHBqqU",
+              "name": "Wolf.",
+              "type": "artist",
+              "uri": "spotify:artist:1haeUsMHUPOfgob9WHBqqU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4RQMN1IHom95AzRzqDsIHN"
+          },
+          "href": "https://api.spotify.com/v1/albums/4RQMN1IHom95AzRzqDsIHN",
+          "id": "4RQMN1IHom95AzRzqDsIHN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27357302e434748b4eb70f69887",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0257302e434748b4eb70f69887",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485157302e434748b4eb70f69887",
+              "width": 64
+            }
+          ],
+          "name": "Suitecases",
+          "release_date": "2020-08-24",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4RQMN1IHom95AzRzqDsIHN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1haeUsMHUPOfgob9WHBqqU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1haeUsMHUPOfgob9WHBqqU",
+            "id": "1haeUsMHUPOfgob9WHBqqU",
+            "name": "Wolf.",
+            "type": "artist",
+            "uri": "spotify:artist:1haeUsMHUPOfgob9WHBqqU"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 192052,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZN222000001"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0qcKeWMJUX12kCUVxhwHwl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qcKeWMJUX12kCUVxhwHwl",
+        "id": "0qcKeWMJUX12kCUVxhwHwl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Suitecases",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/3d04984684cba4aa44bc210d398e3b3558d1644b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0qcKeWMJUX12kCUVxhwHwl"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 100,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 22
+}
